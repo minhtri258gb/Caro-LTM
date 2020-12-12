@@ -1,0 +1,13 @@
+
+server cmd:
+
+user >> số ng chơi online / tổng số
+
+user list >> danh sách tài khoản
+
+user block <id> >> chặn
+user unblock <id> >> bỏ chặn
+
+
+room list >> danh sách trận đấu đã có kết quả
+room show <id> >> thông tin trận đấu

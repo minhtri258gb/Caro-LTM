@@ -1,0 +1,12 @@
+
+-Dùng hibernate orm
+-MD5 băm mật khẩu
+-Mô hình đa luồng của server tương ứng một client - dùng giao thức TCP
+-Mỗi client - server dùng một key 3DES
+-Mã hóa key với RSA
+-Validate form đăng ký, đăng nhập, đặt lại mật khẩu
+-Xử lý Caro logic
+-Chống thay mật khẩu và đăng nhập khi tài khoản đang đăng nhập
+-Giao diện thông báo/xác nhận người dùng
+-Bắt các lỗi cơ bản
+
